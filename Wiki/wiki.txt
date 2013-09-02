@@ -1,0 +1,12 @@
+== Example Page
+
+**Today** is a //beautiful// day!
+
+Today we were talking about
+
+* Coq
+* Agda
+
+More information [[www.google.de|here]].
+
+Thanks, bye!
